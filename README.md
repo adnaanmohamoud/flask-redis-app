@@ -1,6 +1,6 @@
 # 🚀 Flask + Redis Dockerised App
 
-**A modern containerized Flask web application integrated with Redis, built using Docker and orchestrated with Docker Compose.**  
+**A modern containerised Flask web application integrated with Redis, built using Docker and orchestrated with Docker Compose.**  
 
 This project demonstrates a real-world **multi-container Python setup**, showcasing how web services and in-memory databases can communicate seamlessly inside containers.
 
