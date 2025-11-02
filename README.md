@@ -123,4 +123,3 @@ Hello from Flask! Connected to Redis successfully 🎯
 This project is open-source and free to use under the **MIT License**.
 =======
 I am going to display a page that would keep count on the amount of visitors
->>>>>>> 47a4311 (new containarised flask application w redis connection)
